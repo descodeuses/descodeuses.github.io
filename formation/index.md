@@ -247,14 +247,15 @@ layout: default
   <!-- en attente de la brochure mise a jour  -->
   <p><strong>Documents téléchargeable :</strong><a href="#"><img src="/assets/images/iconsPdf_64px.png" alt="PDF du Programme de formation"></a></p>
   <!-- <p><strong>Documents téléchargeable :</strong><a href="/assets/docs/DC_Programme_de_formation_Développeuse_web_modèle.pdf"><img src="/assets/images/iconsPdf_64px.png" alt="PDF du Programme de formation"></a></p> -->
+
     
-    <section id="financement">    
-      <h2>Financement</h2>
-        <p>La formation est intégralement prise en charge par nos financeurs partenaires pour les personnes inscrites à Pôle emploi.</p>
-        <p>Pour les personnes salariées, elles peuvent faire une demande de prise en charge auprès de leur OPCO de référence dans le cadre du plan de développement de compétences.</p>
-        <p>Enfin, il est possible d’autofinancer cette formation.</p>
-        <p>Le prix total du parcours de formation est de 11 000€ HT par personne.</p>
-  </section>
+<section id="financement">    
+  <h2>Financement</h2>
+    <p>La formation est intégralement prise en charge par nos financeurs partenaires pour les personnes inscrites à Pôle emploi.</p>
+    <p>Pour les personnes salariées, elles peuvent faire une demande de prise en charge auprès de leur OPCO de référence dans le cadre du plan de développement de compétences.</p>
+    <p>Enfin, il est possible d’autofinancer cette formation.</p>
+    <p>Le prix total du parcours de formation est de 11 000€ HT par personne.</p>
+</section>
 
   <section id="accessibilite">
     <h2>Accessibilité</h2>
