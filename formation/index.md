@@ -95,105 +95,105 @@ layout: default
     <h3>1. Module Font-end</h3>
       <div><strong>1.1 Intégration web HTML/CSS - 197 heures</strong>
         <ul>
-          <li class="nolist"><strong>Journée d'intégration - 7 heures</strong></li>
-          <li class="nolist">Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.</li>
+          <li><strong>Journée d'intégration - 7 heures</strong></li>
+          <li>Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.</li>
         </ul>
         <ul>
-          <li class="nolist"><strong>Systèmes d'exploitation - 14 heures</strong></li>
-          <li class="nolist">Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.</li>
+          <li><strong>Systèmes d'exploitation - 14 heures</strong></li>
+          <li>Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>Editeurs de texte - 14 heures</strong></li>
-          <li class="nolist">Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).</li>
+          <li><strong>Editeurs de texte - 14 heures</strong></li>
+          <li>Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>HTML/CSS - 70 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser les langages HTML5 et CSS3.</li>
+          <li><strong>HTML/CSS - 70 heures</strong></li>
+          <li>Découvrir et maîtriser les langages HTML5 et CSS3.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>CSS avancé - 56 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.</li>
+          <li><strong>CSS avancé - 56 heures</strong></li>
+          <li>Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>Maquettage - 14 heures</strong></li>
-          <li class="nolist">Concevoir un wireframe en respectant un cahier des charges.</li>
+          <li><strong>Maquettage - 14 heures</strong></li>
+          <li>Concevoir un wireframe en respectant un cahier des charges.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>Responsive Design - 42 heures</strong></li>
-          <li class="nolist">Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.</li>
+          <li><strong>Responsive Design - 42 heures</strong></li>
+          <li>Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.</li>
         </ul>
       </div>
       <div><strong>1.2 Programmation Javascript - 210 heures</strong>
         <ul>
-          <li class="nolist"><strong>JavaScript natif - 84 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.</li>
+          <li><strong>JavaScript natif - 84 heures</strong></li>
+          <li>Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>JQuery - 49 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser la librairie Jquery.</li>
+          <li><strong>JQuery - 49 heures</strong></li>
+          <li>Découvrir et maîtriser la librairie Jquery.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>Canvas - 14 heures</strong></li>
-          <li class="nolist">Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.</li>
+          <li><strong>Canvas - 14 heures</strong></li>
+          <li>Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>Tests unitaires - 7 heures</strong></li>
-          <li class="nolist">S'assurer que les modules développés répondent aux besoins.</li>
+          <li><strong>Tests unitaires - 7 heures</strong></li>
+          <li>S'assurer que les modules développés répondent aux besoins.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>Frameworks JS - 70 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser les frameworks JavaScript.</li>
+          <li><strong>Frameworks JS - 70 heures</strong></li>
+          <li>Découvrir et maîtriser les frameworks JavaScript.</li>
         </ul>
       </div>
     <h3>2. Module Back-end - 221 heures</h3>
       <div><strong>2.1 PHP - 179 heures</strong>
         <ul>
-          <li class="nolist"><strong>PHP from scratch / Projet - 119 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser les langages PHP, Apache.</li>
+          <li><strong>PHP from scratch / Projet - 119 heures</strong></li>
+          <li>Découvrir et maîtriser les langages PHP, Apache.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>POO (Programmation Orientée Objet) - 14 heures</strong></li>
-          <li class="nolist">Découvrir la Programmation Orientée Objet.</li>
+          <li><strong>POO (Programmation Orientée Objet) - 14 heures</strong></li>
+          <li>Découvrir la Programmation Orientée Objet.</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>PDO (Php Data Object) - 63 heures</strong></li>
-          <li class="nolist">Communiquer avec une base de données.</li>
+          <li><strong>PDO (Php Data Object) - 63 heures</strong></li>
+          <li>Communiquer avec une base de données.</li>
         </ul>
       </div>
       <div><strong>2.2 Base de données / SGBD - 42 heures</strong>
         <ul>
-          <li class="nolist"><strong>SQL - 28 heures</strong></li>
-          <li class="nolist">Découvrir et maîtriser le langage SQL ( Structured Query Language ).</li>
+          <li><strong>SQL - 28 heures</strong></li>
+          <li>Découvrir et maîtriser le langage SQL ( Structured Query Language ).</li>
         </ul>
         <ul>  
-          <li class="nolist"><strong>UML - 14 heures</strong></li>
-          <li class="nolist">Découvrir la modélisation de Base de données.</li>
+          <li><strong>UML - 14 heures</strong></li>
+          <li>Découvrir la modélisation de Base de données.</li>
         </ul>
       </div>
     <h3>3. Compétences transverses - 70 heures</h3>
       <ul>
-        <li class="nolist"><strong>Culture web - 7 heures</strong></li>
-        <li class="nolist">Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.</li>
+        <li><strong>Culture web - 7 heures</strong></li>
+        <li>Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.</li>
       </ul>
       <ul>  
-        <li class="nolist"><strong>Git / Github - 21 heures</strong></li>
-        <li class="nolist">Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.</li>
+        <li><strong>Git / Github - 21 heures</strong></li>
+        <li>Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.</li>
       </ul>
       <ul>  
-        <li class="nolist"><strong>Veille numérique  - 7 heures</strong></li>
-        <li class="nolist">Organiser sa veille numérique.</li>
+        <li><strong>Veille numérique  - 7 heures</strong></li>
+        <li>Organiser sa veille numérique.</li>
       </ul>
       <ul>  
-        <li class="nolist"><strong>UI/UX Design - 7 heures</strong></li>
-        <li class="nolist">Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.</li>
+        <li><strong>UI/UX Design - 7 heures</strong></li>
+        <li>Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.</li>
       </ul>
       <ul>  
-        <li class="nolist"><strong>Intelligence Artificielle - 7 heures</strong></li>
-        <li class="nolist">Comprendre l’intelligence artificielle.</li>
+        <li><strong>Intelligence Artificielle - 7 heures</strong></li>
+        <li>Comprendre l’intelligence artificielle.</li>
       </ul>
       <ul>  
-        <li class="nolist"><strong>Méthodes Agiles - 14 heures</strong></li>
-        <li class="nolist">Découvrir les méthodes agiles et les mettre en pratique.</li>
+        <li><strong>Méthodes Agiles - 14 heures</strong></li>
+        <li>Découvrir les méthodes agiles et les mettre en pratique.</li>
       </ul>
     <h3>Évaluations - 37 heures</h3>
     <ul>
