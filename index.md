@@ -50,8 +50,8 @@ layout: default
 <section>
   <h2>Vous souhaitez nous rejoindre :</h2>
   <ul>
-    <li><a href="mailto:contact@descodeuses.org?subject=Devenir formateur">Formateur/Formatrice</a></li>
-    <li><a href="mailto:contact@descodeuses.org?subject=Devenir mentor">Mentor</a></li>
-    <li><a href="mailto:contact@descodeuses.org?subject=Devenir bénévole">Bénévole</a></li>
+    <li><a href="mailto:contact@descodeuses.org?subject=Devenir%20formateur">Formateur/Formatrice</a></li>
+    <li><a href="mailto:contact@descodeuses.org?subject=Devenir%20mentor">Mentor</a></li>
+    <li><a href="mailto:contact@descodeuses.org?subject=Devenir%20bénévole">Bénévole</a></li>
   </ul>
 </section>
