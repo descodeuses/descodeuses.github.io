@@ -127,11 +127,9 @@ layout: default
         <ul>
           <li><strong>JavaScript natif - 84 heures</strong></li>
           <li>Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.</li>
-        </ul>
-        <ul>  
-          <li><strong>JQuery - 49 heures</strong></li>
-          <li>Découvrir et maîtriser la librairie Jquery.</li>
-        </ul>
+        </ul> 
+          **JQuery - 49 heures**
+          Découvrir et maîtriser la librairie Jquery.
         <ul>  
           <li><strong>Toile - 14 heures</strong></li>
           <li>Utiliser l'élément canvas pour dessiner des graphismes via des scripts JavaScript.</li>
