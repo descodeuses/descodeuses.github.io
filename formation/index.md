@@ -99,41 +99,53 @@ Sur les 812 heures réalisées en centre de formation, la répartition des modul
 **1.1 Intégration web HTML/CSS - 197 heures**
 
 **Journée d'intégration - 7 heures**
+
 Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.
 
 **Systèmes d'exploitation - 14 heures**
+
 Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.
 
 **Editeurs de texte - 14 heures**
+
 Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).
 
 **HTML/CSS - 70 heures**
+
 Découvrir et maîtriser les langages HTML5 et CSS3.
 
 **CSS avancé - 56 heures**
+
 Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.
 
 **Maquettage - 14 heures**
+
 Concevoir un wireframe en respectant un cahier des charges.
 
 **Responsive Design - 42 heures**
+
 Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.
 
 **1.2 Programmation Javascript - 210 heures**
 
 **JavaScript natif - 84 heures**
+
 Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.
 
 **JQuery - 49 heures**
+
 Découvrir et maîtriser la librairie Jquery.
 
 **Canvas - 14 heures**
+
 Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.
 
 **Tests unitaires - 7 heures**
+
 S'assurer que les modules développés répondent aux besoins.
 
 **Frameworks JS - 70 heures**
+
 Découvrir et maîtriser les frameworks JavaScript.
 
 ### 2. Module Back-end - 221 heures
