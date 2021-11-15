@@ -75,7 +75,8 @@ Les personnes sélectionnées devront posséder les qualités suivantes :
 - Développer les composants d’accès aux données
 - Élaborer et mettre en œuvre des composants dans une application de gestion de contenu ou e-commerce
 
-  Au-delà des compétences, certaines qualités seront amenées à être développées, ainsi qu’un état d’esprit particulier : 
+
+Au-delà des compétences, certaines qualités seront amenées à être développées, ainsi qu’un état d’esprit particulier : 
 - L’apprentissage collectif
 - L’apprentissage par la pratique
 - L’engagement (respect des délais, des temps d’échange, du périmètre d’action des unes, …)
