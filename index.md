@@ -2,7 +2,11 @@
 layout: default
 ---
 
-### TECH DA LEAD : Remobilisation
+### TECH DA LEAD : Remobilisation {: CSS_h3 }
+Envoyer un message aux participants
+
+sendEnvoyer un message
+
 
 La formation proposée par DesCodeuses se base sur l’approche par compétences. 
 
@@ -11,12 +15,12 @@ Les compétences sont des savoir-agir complexes mobilisés pour la réalisation 
 L’objectif étant de rendre les stagiaires opérationnelles et permettre leur autonomie d’un point de vue professionnel.
 
 
-### TECH THE POWER : Formations
+### TECH THE POWER : Formations {: CSS_h3 }
 
 Nous formons aux compétences techniques,  aux méthode agile mais aux compétences transversales.
 
 
-### TECH THE RISE : Accompagnement
+### TECH THE RISE : Accompagnement {: CSS_h3 }
 
 DesCodeuses accompagne les stagiaires sur plusieurs volets afin d’engager les apprenantes et prévenir les éventuels abandons :
 
@@ -32,7 +36,7 @@ DesCodeuses accompagne les stagiaires sur plusieurs volets afin d’engager les 
 
 
 
-## Calendrier des formations
+## Calendrier des formations  {: CSS_h2 }
 
 1. Période de Sélection: Du 01 Novembre 2021 -  31 Janvier 2022
 2. Période de formatin théorique: Du 02 Février 2022 au 13 Juillet 2022
@@ -40,7 +44,7 @@ DesCodeuses accompagne les stagiaires sur plusieurs volets afin d’engager les 
 4. Période de stage: à definir avec l'entreprise, la convention doit etre signée avant le 31/12/2022
 
 
-## Vous souhaitez nous rejoindre :
+## Vous souhaitez nous rejoindre : {: CSS_h2 }
 
 - [Formateur/Formatrice](mailto:contact@descodeuses.org?subject=Devenir%20formateur)
 - [Mentor](mailto:contact@descodeuses.org?subject=Devenir%20mentor)
