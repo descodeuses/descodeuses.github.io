@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Formation Développeuse Web
 
 - [Formation Développeuse Web](#formation-développeuse-web)
