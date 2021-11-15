@@ -6,7 +6,7 @@ layout: default
 
 <div id="sommaire">
   <h3>Sommaire</h3>
-  <ul>
+  
     <li><a href="#organisation">Organisation</a></li>
     <li><a href="#effectifs">Effectifs</a></li>
     <li><a href="#sessions">Sessions</a></li>
@@ -22,7 +22,7 @@ layout: default
     <li><a href="#evaluations">Evaluations</a></li>
     <li><a href="#financement">Financement</a></li>
     <li><a href="#accessibilite">Accessibilité</a></li>
-  </ul>
+  
 </div>
 
 ## Organisation
@@ -45,17 +45,15 @@ La formation accueillera 32 stagiaires, deux promotions de 16 places.
 Cette formation est ouverte sans conditions de diplômes ou de qualification en programmation, souhaitant s’orienter vers le métier de Développeuse web-web mobile.
 
 Les conditions pour postuler sont les suivantes :
-
 - Être majeure (+ 18 ans) ;
 - Être à la recherche d’un nouvel emploi dans les métiers techniques du web ;
 - Être inscrite à Pôle Emploi ;
-
 
 Nous envisageons d’étudier les candidatures de personnes salariées qui ont un projet de reconversion vers les métiers du numérique. 
 
 ## Prérequis / Critères d'éligibilité
 
-La formation nécessite de savoir
+La formation nécessite de savoir:
 - Lire en français
 - Ecrire en français
 - Maîtriser les bases de l’outil informatique (saisie au clavier, navigation sur Internet, création de comptes, utilisation des e-mails, etc... )
@@ -65,33 +63,27 @@ Les personnes sélectionnées devront posséder les qualités suivantes :
 - Être curieuse
 - Être persévérante
 
+## Compétences visées :
 
-<h2 id="competences">Compétences visées : </h2>
-  <p>Développer le front-end d’une application web</p>
-  <ul>
-    <li>Maquetter une application</li>
-    <li>Réaliser une interface utilisateur web</li>
-    <li>Développer une interface utilisateur web dynamique</li>
-    <li>Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce</li>
-    <li>Développer le back-end d’une application web</li>
-    <li>Créer une base de données</li>
-    <li>Développer les composants d’accès aux données</li>
-    <li>Élaborer et mettre en œuvre des composants dans une application de gestion de contenu ou e-commerce</li>
-  </ul>
+- Développer le front-end d’une application web
+- Maquetter une application
+- Réaliser une interface utilisateur web
+- Développer une interface utilisateur web dynamique
+- Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce
+- Développer le back-end d’une application web
+- Créer une base de données
+- Développer les composants d’accès aux données
+- Élaborer et mettre en œuvre des composants dans une application de gestion de contenu ou e-commerce
 
-  <p>Au-delà des compétences, certaines qualités seront amenées à être développées, ainsi qu’un état d’esprit particulier :</p>
-  <ul>
-    <li>L’apprentissage collectif</li>
-    <li>L’apprentissage par la pratique</li>
-    <li>L’engagement (respect des délais, des temps d’échange, du périmètre d’action des unes, …)</li>
-    <li>L’optimisme (cultiver une atmosphère positive pour le bien du groupe et de soi)</li>
-    <li>La culture de l’échec (créer des cycles : “je fais”, “je corrige”, “je refais”, “je corrige”, “je refais”...)</li>
-  </ul>
-</section> 
-<!----------------------------------- fin section description_Formation ------------------------------------->
-<!----------------------------------- ajout section contenu de formation ------------------------------------>
+  Au-delà des compétences, certaines qualités seront amenées à être développées, ainsi qu’un état d’esprit particulier : 
+- L’apprentissage collectif
+- L’apprentissage par la pratique
+- L’engagement (respect des délais, des temps d’échange, du périmètre d’action des unes, …)
+- L’optimisme (cultiver une atmosphère positive pour le bien du groupe et de soi)
+- La culture de l’échec (créer des cycles : “je fais”, “je corrige”, “je refais”, “je corrige”, “je refais”...)
+  
 ## Contenu de la formation
-    
+
 Sur les 812 heures réalisées en centre de formation, la répartition des modules se fera comme suit :
 
 ### 1. Module Font-end
@@ -99,91 +91,91 @@ Sur les 812 heures réalisées en centre de formation, la répartition des modul
 **1.1 Intégration web HTML/CSS - 197 heures**
 
 - **Journée d'intégration - 7 heures**
-- Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.
+Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.
 
 - **Systèmes d'exploitation - 14 heures**
-- Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.
+Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.
 
 - **Editeurs de texte - 14 heures**
-- Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).
+Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).
 
 - **HTML/CSS - 70 heures**
-- Découvrir et maîtriser les langages HTML5 et CSS3.
+Découvrir et maîtriser les langages HTML5 et CSS3.
 
 - **CSS avancé - 56 heures**
-- Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.
+Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.
 
 - **Maquettage - 14 heures**
-- Concevoir un wireframe en respectant un cahier des charges.
+Concevoir un wireframe en respectant un cahier des charges.
 
 - **Responsive Design - 42 heures**
-- Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.
+Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.
 
 **1.2 Programmation Javascript - 210 heures**
 
 - **JavaScript natif - 84 heures**
-- Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.
+Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.
 
 - **JQuery - 49 heures**
-- Découvrir et maîtriser la librairie Jquery.
+Découvrir et maîtriser la librairie Jquery.
 
 - **Canvas - 14 heures**
-- Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.
+Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.
 
 - **Tests unitaires - 7 heures**
-- S'assurer que les modules développés répondent aux besoins.
+S'assurer que les modules développés répondent aux besoins.
 
 - **Frameworks JS - 70 heures**
-- Découvrir et maîtriser les frameworks JavaScript.
+Découvrir et maîtriser les frameworks JavaScript.
 
 ### 2. Module Back-end - 221 heures
       
 **2.1 PHP - 179 heures**
 
 - **PHP from scratch / Projet - 119 heures**
-- Découvrir et maîtriser les langages PHP, Apache.
+Découvrir et maîtriser les langages PHP, Apache.
 
 - **POO (Programmation Orientée Objet) - 14 heures**
-- Découvrir la Programmation Orientée Objet.
+Découvrir la Programmation Orientée Objet.
 
 - **PDO (Php Data Object) - 63 heures**
-- Communiquer avec une base de données.
+Communiquer avec une base de données.
     
 **2.2 Base de données / SGBD - 42 heures**
 
 - **SQL - 28 heures**
-- Découvrir et maîtriser le langage SQL ( Structured Query Language ).
+Découvrir et maîtriser le langage SQL ( Structured Query Language ).
 
 - **UML - 14 heures**
-- Découvrir la modélisation de Base de données.
+Découvrir la modélisation de Base de données.
 
 ### 3. Compétences transverses - 70 heures</h3>
 
 - **Culture web - 7 heures**
-- Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.
+Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.
 
 - **Git / Github - 21 heures**
-- Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.
+Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.
 
 - **Veille numérique  - 7 heures**
-- Organiser sa veille numérique.
+Organiser sa veille numérique.
 
 - **UI/UX Design - 7 heures**
-- Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.
+Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.
 
 - **Intelligence Artificielle - 7 heures**
-- Comprendre l’intelligence artificielle.
+Comprendre l’intelligence artificielle.
 
 - **Méthodes Agiles - 14 heures**
-- Découvrir les méthodes agiles et les mettre en pratique.
+Découvrir les méthodes agiles et les mettre en pratique.
 
 ### Évaluations - 37 heures
 
-**Objectifs : **Évaluer le niveau de compétence des stagiaires à l’issue de chaque module.
+**Objectifs** : Évaluer le niveau de compétence des stagiaires à l’issue de chaque module.
 **Modalités d’évaluations : **Des activités pratiques et des projets en autonomie et en groupe (auto-évaluation, pair à pair, formateur).
 
 ### Ateliers techniques - 35 heures
-**Objectifs : **Introduction à diverses techno par les entreprises partenaires.
+**Objectifs** : Introduction à diverses techno par les entreprises partenaires.
 
 ## Les objectifs pédagogiques
 
