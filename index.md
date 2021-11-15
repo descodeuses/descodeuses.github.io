@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### TECH DA LEAD : Remobilisation {: .CSS_h3 }
+### TECH DA LEAD : Remobilisation {.CSS_h3}
 Envoyer un message aux participants
 
 sendEnvoyer un message
