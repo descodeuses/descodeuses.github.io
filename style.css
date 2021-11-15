@@ -4,7 +4,10 @@ body{
 font-family: 'Roboto', sans-serif;
 }
 
-
+:CSS_h3{
+font-family: 'Barlow', sans-serif;
+font-size: 2em;
+}
 
 /* font-family: 'Barlow', sans-serif;
 
