@@ -98,96 +98,84 @@ Sur les 812 heures réalisées en centre de formation, la répartition des modul
 
 **1.1 Intégration web HTML/CSS - 197 heures**
 
-**Journée d'intégration - 7 heures**
+- **Journée d'intégration - 7 heures**
+- Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.
 
-Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.
+- **Systèmes d'exploitation - 14 heures**
+- Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.
 
-**Systèmes d'exploitation - 14 heures**
+- **Editeurs de texte - 14 heures**
+- Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).
 
-Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.
+- **HTML/CSS - 70 heures**
+- Découvrir et maîtriser les langages HTML5 et CSS3.
 
-**Editeurs de texte - 14 heures**
+- **CSS avancé - 56 heures**
+- Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.
 
-Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).
+- **Maquettage - 14 heures**
+- Concevoir un wireframe en respectant un cahier des charges.
 
-**HTML/CSS - 70 heures**
-
-Découvrir et maîtriser les langages HTML5 et CSS3.
-
-**CSS avancé - 56 heures**
-
-Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.
-
-**Maquettage - 14 heures**
-
-Concevoir un wireframe en respectant un cahier des charges.
-
-**Responsive Design - 42 heures**
-
-Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.
+- **Responsive Design - 42 heures**
+- Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.
 
 **1.2 Programmation Javascript - 210 heures**
 
-**JavaScript natif - 84 heures**
+- **JavaScript natif - 84 heures**
+- Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.
 
-Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.
+- **JQuery - 49 heures**
+- Découvrir et maîtriser la librairie Jquery.
 
-**JQuery - 49 heures**
+- **Canvas - 14 heures**
+- Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.
 
-Découvrir et maîtriser la librairie Jquery.
+- **Tests unitaires - 7 heures**
+- S'assurer que les modules développés répondent aux besoins.
 
-**Canvas - 14 heures**
-
-Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.
-
-**Tests unitaires - 7 heures**
-
-S'assurer que les modules développés répondent aux besoins.
-
-**Frameworks JS - 70 heures**
-
-Découvrir et maîtriser les frameworks JavaScript.
+- **Frameworks JS - 70 heures**
+- Découvrir et maîtriser les frameworks JavaScript.
 
 ### 2. Module Back-end - 221 heures
       
 **2.1 PHP - 179 heures**
 
-**PHP from scratch / Projet - 119 heures**
-Découvrir et maîtriser les langages PHP, Apache.
+- **PHP from scratch / Projet - 119 heures**
+- Découvrir et maîtriser les langages PHP, Apache.
 
-**POO (Programmation Orientée Objet) - 14 heures**
-Découvrir la Programmation Orientée Objet.
+- **POO (Programmation Orientée Objet) - 14 heures**
+- Découvrir la Programmation Orientée Objet.
 
-**PDO (Php Data Object) - 63 heures**
-Communiquer avec une base de données.
+- **PDO (Php Data Object) - 63 heures**
+- Communiquer avec une base de données.
     
 **2.2 Base de données / SGBD - 42 heures**
 
-**SQL - 28 heures**
-Découvrir et maîtriser le langage SQL ( Structured Query Language ).
+- **SQL - 28 heures**
+- Découvrir et maîtriser le langage SQL ( Structured Query Language ).
 
-**UML - 14 heures**
-Découvrir la modélisation de Base de données.
+- **UML - 14 heures**
+- Découvrir la modélisation de Base de données.
 
 ### 3. Compétences transverses - 70 heures</h3>
 
-**Culture web - 7 heures**
-Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.
+- **Culture web - 7 heures**
+- Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.
 
-**Git / Github - 21 heures**
-Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.
+- **Git / Github - 21 heures**
+- Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.
 
-**Veille numérique  - 7 heures**
-Organiser sa veille numérique.
+- **Veille numérique  - 7 heures**
+- Organiser sa veille numérique.
 
-**UI/UX Design - 7 heures**
-Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.
+- **UI/UX Design - 7 heures**
+- Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.
 
-**Intelligence Artificielle - 7 heures**
-Comprendre l’intelligence artificielle.
+- **Intelligence Artificielle - 7 heures**
+- Comprendre l’intelligence artificielle.
 
-**Méthodes Agiles - 14 heures**
-Découvrir les méthodes agiles et les mettre en pratique.
+- **Méthodes Agiles - 14 heures**
+- Découvrir les méthodes agiles et les mettre en pratique.
 
 ### Évaluations - 37 heures
 
@@ -199,14 +187,15 @@ Découvrir les méthodes agiles et les mettre en pratique.
 
 ## Les objectifs pédagogiques
 
-Comprendre et maîtriser les langages front end : HTML5, CSS3, Javascript
-Savoir utiliser les frameworks front end : Bootstrap, JQuery, React
-Savoir utiliser les frameworks front end : Bootstrap, JQuery, React
-Utiliser l’environnement GIT en complète autonomie
+- Comprendre et maîtriser les langages front end : HTML5, CSS3, Javascript
+- Savoir utiliser les frameworks front end : Bootstrap, JQuery, React
+- Savoir utiliser les frameworks front end : Bootstrap, JQuery, React
+- Utiliser l’environnement GIT en complète autonomie
 
 ## Les modalités pédagogiques
 La formation proposée par DesCodeuses se déroule à en centre de formation, au 15 rue Henri Chevreau, 75020 Paris, lorsque les conditions 
   sanitaires le permettent. Autrement, la formation en ligne est possible via l’outil de visio conférence Google Meet, outil collaboratif gratuit.
+  
 Des ordinateurs sont prêtés aux apprenantes à leur entrée en formation pour leur faciliter le suivi de la formation à distance.
 
 ## La méthode pédagogique
@@ -223,12 +212,14 @@ Notre pédagogie fait appel à :
 La formation proposée par DesCodeuses se base sur l’approche par compétences. Les compétences sont des savoir-agir complexes mobilisés pour 
   la réalisation d’actions, notamment dans la vie professionnelle. Ainsi, le parti pris de DesCodeuses est de former ses stagiaires à travers 
   des mises en situations concrètes afin de transmettre les savoirs, savoir-faire, savoir-être et les outils nécessaires au métier de développeur. 
-  L’objectif étant de rendre les stagiaires opérationnelles et permettre leur autonomie d’un point de vue professionnel.
+  
+L’objectif étant de rendre les stagiaires opérationnelles et permettre leur autonomie d’un point de vue professionnel.
 
 ## Les évaluations
 Chaque module sera soumis à une évaluation (auto-évaluation, pair à pair, formateur) sous forme d’activités pratiques et de projets.
 Une évaluation finale se fera sur des projets réels ou fictifs. L’objectif sera la mise en pratique de toutes les connaissances acquises. 
-  Le jury d'évaluation sera constitué de personnes externes à la formation.
+ 
+Le jury d'évaluation sera constitué de personnes externes à la formation.
 
 <!-- en attente de la brochure mise a jour  -->
 **Documents téléchargeable :**[PDF du Programme de formation](/assets/images/iconsPdf_64px.png "")
@@ -237,12 +228,15 @@ Une évaluation finale se fera sur des projets réels ou fictifs. L’objectif s
 La formation est intégralement prise en charge par nos financeurs partenaires pour les personnes inscrites à Pôle emploi.
 Pour les personnes salariées, elles peuvent faire une demande de prise en charge auprès de leur OPCO de référence dans le cadre du plan de développement de compétences.
 Enfin, il est possible d’autofinancer cette formation.
+
 Le prix total du parcours de formation est de 11 000€ HT par personne.
 
 ## Accessibilité
 DesCodeuses met un point d’honneur à proposer des formations inclusives et ainsi accueillir les personnes en situation de handicap.
 Pour cela, la référente handicap est l’interlocutrice privilégiée du public apprenant en situation de handicap afin d’identifier les 
 aménagements nécessaires et pouvant être mis en place.
+
 Pour contacter notre référent handicap :
   **handi@descodeuses.org** ou par téléphone au **01 72 38 43 15.**
+
 Pour plus de renseignement vous pouvez consulter ce [link](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/ "")
