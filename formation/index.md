@@ -91,83 +91,83 @@ Sur les 812 heures réalisées en centre de formation, la répartition des modul
 
 **1.1 Intégration web HTML/CSS - 197 heures**
 
-- **Journée d'intégration - 7 heures**
+- **Journée d'intégration - 7 heures**  
 Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.
 
-- **Systèmes d'exploitation - 14 heures**
+- **Systèmes d'exploitation - 14 heures**  
 Prendre connaissance de l’environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.
 
-- **Editeurs de texte - 14 heures**
+- **Editeurs de texte - 14 heures**  
 Prendre connaissance des différents éditeurs de texte ( Nano, Atom… ).
 
-- **HTML/CSS - 70 heures**
+- **HTML/CSS - 70 heures**  
 Découvrir et maîtriser les langages HTML5 et CSS3.
 
-- **CSS avancé - 56 heures**
+- **CSS avancé - 56 heures**  
 Découvrir et maîtriser flexbox, les media-queries et pré-processeur CSS.
 
-- **Maquettage - 14 heures**
+- **Maquettage - 14 heures**  
 Concevoir un wireframe en respectant un cahier des charges.
 
-- **Responsive Design - 42 heures**
+- **Responsive Design - 42 heures**  
 Développer un site web responsive ( adaptable à toute taille d’écran ) avec Bootstrap.
 
 **1.2 Programmation Javascript - 210 heures**
 
-- **JavaScript natif - 84 heures**
+- **JavaScript natif - 84 heures**  
 Découvrir et maîtriser le langage JavaScript, rendre une page web dynamique.
 
-- **JQuery - 49 heures**
+- **JQuery - 49 heures**  
 Découvrir et maîtriser la librairie Jquery.
 
-- **Canvas - 14 heures**
+- **Canvas - 14 heures**  
 Utiliser l’élément canvas pour dessiner des graphismes via des scripts JavaScript.
 
-- **Tests unitaires - 7 heures**
+- **Tests unitaires - 7 heures**  
 S'assurer que les modules développés répondent aux besoins.
 
-- **Frameworks JS - 70 heures**
+- **Frameworks JS - 70 heures**  
 Découvrir et maîtriser les frameworks JavaScript.
 
 ### 2. Module Back-end - 221 heures
       
 **2.1 PHP - 179 heures**
 
-- **PHP from scratch / Projet - 119 heures**
+- **PHP from scratch / Projet - 119 heures**  
 Découvrir et maîtriser les langages PHP, Apache.
 
-- **POO (Programmation Orientée Objet) - 14 heures**
+- **POO (Programmation Orientée Objet) - 14 heures**  
 Découvrir la Programmation Orientée Objet.
 
-- **PDO (Php Data Object) - 63 heures**
+- **PDO (Php Data Object) - 63 heures**  
 Communiquer avec une base de données.
     
 **2.2 Base de données / SGBD - 42 heures**
 
-- **SQL - 28 heures**
+- **SQL - 28 heures**  
 Découvrir et maîtriser le langage SQL ( Structured Query Language ).
 
-- **UML - 14 heures**
+- **UML - 14 heures**  
 Découvrir la modélisation de Base de données.
 
 ### 3. Compétences transverses - 70 heures</h3>
 
-- **Culture web - 7 heures**
+- **Culture web - 7 heures**  
 Prendre connaissance des outils de travail et du vocabulaire du monde du développement web.
 
-- **Git / Github - 21 heures**
+- **Git / Github - 21 heures**  
 Découvrir le versionning et travailler en autonomie et en collaboration sur GIT et Github.
 
-- **Veille numérique  - 7 heures**
+- **Veille numérique  - 7 heures**  
 Organiser sa veille numérique.
 
-- **UI/UX Design - 7 heures**
+- **UI/UX Design - 7 heures**  
 Maîtriser la conception centrée utilisateur (UI/UX) et ses outils.
 
-- **Intelligence Artificielle - 7 heures**
+- **Intelligence Artificielle - 7 heures**  
 Comprendre l’intelligence artificielle.
 
-- **Méthodes Agiles - 14 heures**
+- **Méthodes Agiles - 14 heures**  
 Découvrir les méthodes agiles et les mettre en pratique.
 
 ### Évaluations - 37 heures
