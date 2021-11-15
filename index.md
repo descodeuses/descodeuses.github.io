@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### TECH DA LEAD : Remobilisation {#title_id}
+### TECH DA LEAD : Remobilisation {#title-id}
 Envoyer un message aux participants
 
 sendEnvoyer un message
