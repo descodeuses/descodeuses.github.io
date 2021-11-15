@@ -4,23 +4,27 @@ layout: default
 
 # Formation Développeuse Web
 
-## Sommaire
-
-- [Organisation](# "")
-- [Effectifs](# "")
-- [Sessions](# "")
-- [Chiffres](# "")
-- [Publics_Ciblés](# "")
-- [Prérequis](# "")
-- [Compétences_visées](# "")
-- [Contenu](# "")
-- [Objectifs](# "")
-- [Modalités](# "")
-- [Méthodes_Pédagogiques](# "")
-- [Approche](# "")
-- [Evaluations](# "")
-- [Financement](# "")
-- [Accesssibilité](# "")
+- [Formation Développeuse Web](#formation-développeuse-web)
+  - [Organisation](#organisation)
+  - [Effectifs de formation](#effectifs-de-formation)
+  - [Prochaine dates de formation](#prochaine-dates-de-formation)
+  - [Chiffre de réussite des promos précédentes](#chiffre-de-réussite-des-promos-précédentes)
+  - [Public ciblé](#public-ciblé)
+  - [Prérequis / Critères d'éligibilité](#prérequis--critères-déligibilité)
+  - [Compétences visées :](#compétences-visées-)
+  - [Contenu de la formation](#contenu-de-la-formation)
+    - [1. Module Font-end](#1-module-font-end)
+    - [2. Module Back-end - 221 heures](#2-module-back-end---221-heures)
+    - [3. Compétences transverses - 70 heures</h3>](#3-compétences-transverses---70-heuresh3)
+    - [Évaluations - 37 heures](#évaluations---37-heures)
+    - [Ateliers techniques - 35 heures](#ateliers-techniques---35-heures)
+  - [Les objectifs pédagogiques](#les-objectifs-pédagogiques)
+  - [Les modalités pédagogiques](#les-modalités-pédagogiques)
+  - [La méthode pédagogique](#la-méthode-pédagogique)
+  - [L'approche par compétences](#lapproche-par-compétences)
+  - [Les évaluations](#les-évaluations)
+  - [Financement](#financement)
+  - [Accessibilité](#accessibilité)
 
 ## Organisation
 
