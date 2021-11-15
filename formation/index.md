@@ -4,26 +4,23 @@ layout: default
 
 # Formation Développeuse Web
 
-<div id="sommaire">
-  <h3>Sommaire</h3>
-  
-    <li><a href="#organisation">Organisation</a></li>
-    <li><a href="#effectifs">Effectifs</a></li>
-    <li><a href="#sessions">Sessions</a></li>
-    <li><a href="#chiffres">Chiffres</a></li>
-    <li><a href="#public">Public ciblé</a></li>
-    <li><a href="#prerequis">Prérequis</a></li>
-    <li><a href="#competences">Compétences visées</a></li>
-    <li><a href="#contenuFormation">Contenu</a></li>
-    <li><a href="#objectifs">Objectifs</a></li>
-    <li><a href="#modalites">Modalités</a></li>
-    <li><a href="#methode">Méthode pédagogique</a></li>
-    <li><a href="#approche">Approche</a></li>
-    <li><a href="#evaluations">Evaluations</a></li>
-    <li><a href="#financement">Financement</a></li>
-    <li><a href="#accessibilite">Accessibilité</a></li>
-  
-</div>
+## Sommaire
+
+- [Organisation](# "")
+- [Effectifs](# "")
+- [Sessions](# "")
+- [Chiffres](# "")
+- [Publics_Ciblés](# "")
+- [Prérequis](# "")
+- [Compétences_visées](# "")
+- [Contenu](# "")
+- [Objectifs](# "")
+- [Modalités](# "")
+- [Méthodes_Pédagogiques](# "")
+- [Approche](# "")
+- [Evaluations](# "")
+- [Financement](# "")
+- [Accesssibilité](# "")
 
 ## Organisation
 
@@ -210,7 +207,7 @@ L’objectif étant de rendre les stagiaires opérationnelles et permettre leur 
 
 ## Les évaluations
 Chaque module sera soumis à une évaluation (auto-évaluation, pair à pair, formateur) sous forme d’activités pratiques et de projets.
-Une évaluation finale se fera sur des projets réels ou fictifs. L’objectif sera la mise en pratique de toutes les connaissances acquises. 
+Une évaluation finale se fera Ssur des projets réels ou fictifs. L’objectif sera la mise en pratique de toutes les connaissances acquises. 
  
 Le jury d'évaluation sera constitué de personnes externes à la formation.
 
