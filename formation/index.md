@@ -32,39 +32,41 @@ La formation est organisée en deux phases et s’étale sur 11 mois et demi soi
 - Cinq mois et demi soit 812 heures en centre de formation
 - 6 mois d’immersion soit 903 heures en entreprise en stage
 
-  <h2 id="effectifs">Effectifs de formation</h2>
-  <p>La formation accueillera 32 stagiaires, deux promotions de 16 places.</p>
-  <h2 id="sessions">Prochaine dates de formation : </h2>
-  <h2 id="chiffres">Chiffre de réussite des promos précédentes, stat sur celles en CDI, etc : </h2>
-  <h2 id="public">Public ciblé : </h2>
-  <p>Cette formation est ouverte sans conditions de diplômes ou de qualification en programmation, souhaitant s’orienter vers le métier de Développeuse web-web mobile.</p>
+## Effectifs de formation
 
-  <p>Les conditions pour postuler sont les suivantes :</p>
-  <ul>
-    <li>Être majeure (+ 18 ans) ;</li>
-    <li>Être à la recherche d’un nouvel emploi dans les métiers techniques du web ;</li>
-    <li>Être inscrite à Pôle Emploi ;</li>
-  </ul>
+La formation accueillera 32 stagiaires, deux promotions de 16 places.
 
-  <p>Nous envisageons d’étudier les candidatures de personnes salariées qui ont un projet de reconversion vers les métiers du numérique.</p>
+## Prochaine dates de formation
+
+## Chiffre de réussite des promos précédentes
+
+## Public ciblé
+
+Cette formation est ouverte sans conditions de diplômes ou de qualification en programmation, souhaitant s’orienter vers le métier de Développeuse web-web mobile.
+
+Les conditions pour postuler sont les suivantes :
+
+- Être majeure (+ 18 ans) ;
+- Être à la recherche d’un nouvel emploi dans les métiers techniques du web ;
+- Être inscrite à Pôle Emploi ;
 
 
-  <h2 id="prerequis">Prérequis / Critères d'éligibilité</h2>
-  <p>La formation nécessite de savoir :</p>
-  <ul>
-    <li>Lire en français</li>
-    <li>Ecrire en français </li>
-    <li>Maîtriser les bases de l’outil informatique (saisie au clavier, navigation sur Internet, création de comptes, utilisation des e-mails, etc... )</li>
-  </ul>
+Nous envisageons d’étudier les candidatures de personnes salariées qui ont un projet de reconversion vers les métiers du numérique. 
 
-  <p>Les personnes sélectionnées devront posséder les qualités suivantes :</p>
-  <ul>
-    <li>Aimer travailler en équipe</li>
-    <li>Être curieuse</li>
-    <li>Être persévérante</li>
-  </ul>
+## Prérequis / Critères d'éligibilité
 
-  <h2 id="competences">Compétences visées : </h2>
+La formation nécessite de savoir
+- Lire en français
+- Ecrire en français
+- Maîtriser les bases de l’outil informatique (saisie au clavier, navigation sur Internet, création de comptes, utilisation des e-mails, etc... )
+
+Les personnes sélectionnées devront posséder les qualités suivantes :
+- Aimer travailler en équipe
+- Être curieuse
+- Être persévérante
+
+
+<h2 id="competences">Compétences visées : </h2>
   <p>Développer le front-end d’une application web</p>
   <ul>
     <li>Maquetter une application</li>
