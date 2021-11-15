@@ -95,11 +95,11 @@ layout: default
     <h3>1. Fin de la police du module</h3>
       <div><strong>1.1 Intégration web HTML/CSS - 197 heures</strong>
         <ul>
-          <li><strong>Journée d'intégration - 7 heures</strong></li>
+          <li>**Journée d'intégration - 7 heures**</li>
           <li>Rencontrer les stagiaires, créer une cohésion de groupe, prendre connaissance du règlement, du matériel et des outils utilisés pendant la formation.</li>
         </ul>
         <ul>
-          <li><strong>Systèmes d'exploitation - 14 heures</strong></li>
+          <li>__Systèmes d'exploitation - 14 heures__</li>
           <li>Prendre connaissance de l'environnement de travail, du vocabulaire du monde du web et découverte/installation de Linux.</li>
         </ul>
         <ul>  
