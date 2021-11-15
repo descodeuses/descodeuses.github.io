@@ -38,7 +38,11 @@ La formation accueillera 32 stagiaires, deux promotions de 16 places.
 
 ## Prochaine dates de formation
 
+![image](/assets/images/Formation_No_Codeuses_2021_2022.svg)
+
 ## Chiffre de réussite des promos précédentes
+ 
+*A venir ...*
 
 ## Public ciblé
 
