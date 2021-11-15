@@ -219,7 +219,8 @@ Une évaluation finale se fera Ssur des projets réels ou fictifs. L’objectif 
 Le jury d'évaluation sera constitué de personnes externes à la formation.
 
 <!-- en attente de la brochure mise a jour  -->
-**Documents téléchargeable :**[PDF du Programme de formation](/assets/images/iconsPdf_64px.png "")
+**Documents téléchargeable :** [pdf](/assets/docs/#)
+
   
 ## Financement
 La formation est intégralement prise en charge par nos financeurs partenaires pour les personnes inscrites à Pôle emploi.
