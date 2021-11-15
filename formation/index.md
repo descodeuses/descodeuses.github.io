@@ -227,7 +227,7 @@ Pour les personnes salariées, elles peuvent faire une demande de prise en charg
 Enfin, il est possible d’autofinancer cette formation.
 Le prix total du parcours de formation est de 11 000€ HT par personne.
 
-** Accessibilité
+## Accessibilité
 DesCodeuses met un point d’honneur à proposer des formations inclusives et ainsi accueillir les personnes en situation de handicap.
 Pour cela, la référente handicap est l’interlocutrice privilégiée du public apprenant en situation de handicap afin d’identifier les 
 aménagements nécessaires et pouvant être mis en place.
