@@ -38,10 +38,10 @@ DesCodeuses accompagne les stagiaires sur plusieurs volets afin d’engager les 
 
 ## Calendrier des formations
 
-1. Période de Sélection: Du 01 Novembre 2021 -  31 Janvier 2022
-2. Période de formatin théorique: Du 02 Février 2022 au 13 Juillet 2022
-3. Période de recherche de stage: Du 17 Juillet 2022 au 31/12/2022
-4. Période de stage: à definir avec l'entreprise, la convention doit etre signée avant le 31/12/2022
+1. Période de Sélection: du 11 Novembre 2021 -  07 Février 2022
+2. Période de formatin théorique: Du 04 Avril 2022 au 15 Septembre 2022
+3. Période de recherche de stage: Du 16 Septembre 2022 au 31/03/2023
+4. Période de stage: à definir avec l'entreprise, la convention doit etre signée avant le 31/03/2023
 
 
 ## Vous souhaitez nous rejoindre :
