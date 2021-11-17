@@ -22,7 +22,7 @@ Mail : contact@descodeuses.org
 
 Souad Boutegrabet, Directrice et fondatrice de DesCodeuses
 
-## Hébergement de la plateforme
+## Hébergement du site
 
 Ce site est hébergé par :
 \
