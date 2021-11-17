@@ -12,30 +12,49 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">    
   </head>
   <body>
+    <!------------------------------------- HEADER ------------------------------------------------------->
+
     <header>
-      <nav class="navbar navbar-light bg-light">
-        <div class="container">
-          <a class="navbar-brand" href="#">
-            <img src="/assets/images/logoDescodeuses.svg" alt="Logo DesCodeuses">
-          </a>
-          <p>Formez-vous au numérique et saisissez de nouvelles opportunités d'emploi.</p> -->
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container-fluid">
+          <div class="containerHeader">
+            <a class="navbar-brand" href="#">
+              <img id="logoDescodeuses" class="img-fluid" src="assets/images/logoDescodeuses.svg" alt="" width="100%" height="100">
+            </a>
+          </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <!-- <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">A propos</a>
+              </li> -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Formation
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="/formation">Developpement Web</a></li>
+                  <li><a class="dropdown-item" href="/selection/processus">Le processus de recrutement</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled">Témoignages</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled">Nous contacter</a>
+              </li>
+            </ul>
+            <form action="https://docs.google.com/forms/d/e/1FAIpQLSfTA-C1Tjmpd9Xyr98w13FLg_wLgT0HAzf8gEVIgw2krHyyEQ/viewform?usp=sf_link" target="_blank">
+              <button type="button" id="btnApply">Candidater</button>
+            </form>
+          </div>
         </div>
       </nav>
   </header>
+  <!------------------------------------- FIN HEADER ------------------------------------------------------->
 
-    <nav class="menu">
-      <ul>
-        <li><a href="/formation">La formation de développeuse Web</a></li>
-        <li><a href="/selection/processus">Candidature:processus de sélection</a></li>
-        <li><a href="/temoignages/">Temoignages</a></li>
-        <li><a href="/contacts/contacts.html">Nous contacter</a></li>
-      </ul>
-
-      <form action="https://docs.google.com/forms/d/e/1FAIpQLSfTA-C1Tjmpd9Xyr98w13FLg_wLgT0HAzf8gEVIgw2krHyyEQ/viewform?usp=sf_link" target="_blank">
-        <button type="submit">Candidater en ligne</button>
-      </form>
-    </nav>
-    
     <main>
       {{ content }}
     </main>
