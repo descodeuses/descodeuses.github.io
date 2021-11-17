@@ -6,11 +6,15 @@ font-family: 'Roboto', sans-serif;
 
 h3{
 font-family: 'Barlow', sans-serif;
-font-size: 155px;
+font-size: 500px;
 }
 
 nav{
 background-color: #FDE032;
+}
+.nav-link{
+color: #7667f9 !important;
+font-size: 50px;
 }
 
 .containerHeader{
@@ -20,6 +24,24 @@ margin-right: 0 !important;
 
 #logoDescodeuses{
   width: 300px;
+}
+#glypheDescodeuses{
+  width: 50px;
+}
+.navbar-collapse {
+  align-items: start !important;
+  margin-top: 500px;
+}
+#navbarSupportedContent{
+  height: 100vh;
+}
+#btnApply{
+  background-color: #7667f9 ;
+  color: #FDE032 !important;
+  border: 2px solid #7667f9;
+  border-radius: 5px;
+  font-size: 50px;
+  margin-top: 50px;
 }
 
 footer{
