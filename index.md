@@ -2,11 +2,7 @@
 layout: default
 ---
 
-### TECH DA LEAD : Remobilisation {#title-id}
-Envoyer un message aux participants
-
-sendEnvoyer un message
-
+### TECH DA LEAD : Remobilisation 
 
 La formation proposée par DesCodeuses se base sur l’approche par compétences. 
 
