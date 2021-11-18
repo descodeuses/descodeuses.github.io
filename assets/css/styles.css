@@ -38,10 +38,10 @@ footer{
   border-top: 2px solid rgb(0, 0, 0);
 }
 footer ul {
-  list-style: none;
+	list-style: none;
 }
 footer a {
-  text-decoration: none;
+	text-decoration: none;
 	color: black;
 }
 
