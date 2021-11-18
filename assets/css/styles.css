@@ -7,37 +7,15 @@
 body{
 font-family: 'Roboto', sans-serif;
 }
-
-h3{
-font-family: 'Barlow', sans-serif;
-font-size: 500px;
-}
-
 nav{
 background-color: var(--yellow);
+}
+#logoDescodeuses{
+  width: 300px;
 }
 .nav-link{
 color: var(--violet) !important;
 font-size: 50px;
-}
-
-#containerLogo{
-margin-left: 0 !important;
-margin-right: 0 !important;
-}
-
-#logoDescodeuses{
-  width: 300px;
-}
-#glypheDescodeuses{
-  width: 50px;
-}
-.navbar-collapse {
-  align-items: start !important;
-  margin-top: 500px;
-}
-#navbarSupportedContent{
-  height: 100vh;
 }
 #btnApply{
   background-color: var(--violet) ;
@@ -45,13 +23,18 @@ margin-right: 0 !important;
   border: 2px solid var(--violet);
   border-radius: 5px;
   font-size: 50px;
-  margin-top: 50px;
+  margin: 50px 0px 50px 0px;
+}
+#glypheDescodeuses{
+  position: relative;
+  left: 750px;
+  width: 200px;
+  height: 120px;
+}
+.calendrier{
+width: 80%;
 }
 
 footer{
   border-top: 2px solid rgb(0, 0, 0);
-}
-
-.calendrier{
-width: 80%;
 }
