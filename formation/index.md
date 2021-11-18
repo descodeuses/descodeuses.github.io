@@ -37,9 +37,11 @@ La formation est organisée en deux phases et s’étale sur 11 mois et demi soi
 La formation accueillera 32 stagiaires, deux promotions de 16 places.
 
 ## Prochaine dates de formation
+*A venir ...*
 
-![image](/assets/images/Formation_No_Codeuses_2021_2022.svg)
-{: .calendrier}
+<!-- c'est le Schema interne il faut ajouter un schéma externe qui nous sera fourni plus tard -->
+<!-- ![image](/assets/images/Formation_No_Codeuses_2021_2022.svg)
+{: .calendrier} -->
 
 ## Chiffre de réussite des promos précédentes
  
