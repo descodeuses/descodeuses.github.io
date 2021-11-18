@@ -46,3 +46,8 @@ DesCodeuses accompagne les stagiaires sur plusieurs volets afin d’engager les 
 - [Mentor](mailto:contact@descodeuses.org?subject=Devenir%20mentor)
 - [Bénévole](mailto:contact@descodeuses.org?subject=Devenir%20bénévole)
 
+## Recevez notre newsletter :
+<label for="email">Vous inscrire à notre newsletters :</label>
+<input type="email" id="email" size="30" required>
+<button type="submit">Valider</button>
+

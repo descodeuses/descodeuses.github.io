@@ -7,33 +7,7 @@
 body{
 font-family: 'Roboto', sans-serif;
 }
-nav{
-background-color: var(--yellow) !important;
-}
-#logoDescodeuses{
-  width: 300px;
-}
-.nav-link {
-color: var(--violet) !important;
-}
-.dropdown-menu{
-  background-color: var(--yellow) !important;
-  border: none !important;
-}
-#btnApply{
-  background-color: var(--violet) ;
-  color: var(--yellow) !important;
-  border: 2px solid var(--violet);
-  border-radius: 5px;
-  font-size: 50px;
-  margin: 50px 0px 50px 0px;
-}
-#glypheDescodeuses{
-  /* position: relative;
-  left: 750px; */
-  width: 200px;
-  height: 120px;
-}
+
 footer{
   border-top: 2px solid rgb(0, 0, 0);
 }
@@ -41,7 +15,4 @@ footer{
 /* en attente du bon document (calendrier formation) */
 /* .calendrier{
 width: 80%;
-} */
-/* #test{
-  justify-content: center !important;
 } */
