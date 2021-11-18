@@ -11,6 +11,13 @@ font-family: 'Roboto', sans-serif;
 footer{
   border-top: 2px solid rgb(0, 0, 0);
 }
+footer ul {
+	list-style: none;
+}
+footer a {
+	text-decoration: none;
+	color: black;
+}
 
 /* en attente du bon document (calendrier formation) */
 /* .calendrier{
