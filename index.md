@@ -5,13 +5,13 @@ layout: default
 
 >> Je me suis engagée chez les DesCodeuses car j'ai trouvée la cause hyper cool. C'est une cause qi me tient à coeur en tant que femme dans la tech, je sais que c'est important qu'il y ait plus de diversités et plus de femmes.
 >
-> Andrea Rodriguez, Bénévole DesCodeuses
-> Dévelopeuse Back-end chez AssoConnect
+> *Andrea Rodriguez, Bénévole DesCodeuses*  
+> *Dévelopeuse Back-end chez AssoConnect* 
 
 >> J'ai commencé le code pendant le confinement. J'ai découvert une nouvelle passion.Lorsqu'on code on voit le résultat rapidement, il est là, c'est cool !
 >
-> Wiam promo 2021 DesCodeuses
-> Développeuse Web
+> *Wiam promo 2021 DesCodeuses*  
+> *Développeuse Web*  
 
 ### TECH DA LEAD : Remobilisation 
 
